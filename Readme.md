@@ -21,8 +21,9 @@ pushed by Gyeongwon
 <img src=" ./Cat.jpg" width= "2px" height = "4px" ></img>
 
 ## 경원
-* 게임 : 포켓몬 카드 게임
-![poster]<img src=" ./frag.png", width="450px" height="300px"></img>
+게임 : 포켓몬 카드 게임
+![poster](./frag.jpg)
+<img src=" ./frag.png", width="450px" height="300px"></img>
 
 ## 동욱
 ![poster](./stanleyparable.webp)<img src="./stanleyparable.webp" width= "2px" height = "4px" ></img>

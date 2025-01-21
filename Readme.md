@@ -15,6 +15,11 @@ pushed by Gyeongwon
 <img src="[ ./kidi.png](https://github.com/user-attachments/assets/2915d3d2-10cc-49e3-98b8-e0c70c6057c4)" width= "2px" height = "4px" ></img>
 <img src="[ ./kidi.png](https://github.com/user-attachments/assets/2915d3d2-10cc-49e3-98b8-e0c70c6057c4)" width= "0.1px" height = "0.1px" ></img>
 
+## 태일
+게임:테라리아
+![poster](./Cat.png)
+<img src=" ./Cat.png" width= "2px" height = "4px" ></img> 
+
 ## 경원
 * 게임 : 포켓몬 카드 게임
 <img src="https://soopool.art/image/acnh/animal/Tad.png", width="450px" or "40%" height="300px" title="크기변경">

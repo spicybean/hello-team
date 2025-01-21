@@ -17,4 +17,4 @@ pushed by Gyeongwon
 
 ## 경원
 * 게임 : 포켓몬 카드 게임
-<img src="https://soopool.art/image/acnh/animal/Tad.png", width="450px" or "40%" height="300px" title="크기변경">
+<img src="https://soopool.art/image/acnh/animal/Tad.png", width="450px" height="300px" title="크기변경">

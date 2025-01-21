@@ -25,4 +25,4 @@ pushed by Gyeongwon
 <img src=" ./frag.png", width="450px" height="300px"></img> 
 
 ## 동욱
-<img src="./stanleyparable.webp" width= "2px" height = "4px" ></img>
+![poster](./stanleyparable.webp)<img src="./stanleyparable.webp" width= "2px" height = "4px" ></img>

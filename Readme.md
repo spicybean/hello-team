@@ -7,4 +7,4 @@ pushed by Gyeongwon
 ## 승우
 게임:림버스,명방,명조,브더2,트릭컬,니케
 ![poster](./kidi.png)
-<img src=" ./kidi.png" width= "10px" height = "20px" title= "somthing"></img>
+<img src=" ./kidi.png" width= "2px" height = "4px" ></img>

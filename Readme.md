@@ -18,11 +18,11 @@ pushed by Gyeongwon
 ## 태일
 게임:테라리아
 ![poster](./Cat.jpg)
-<img src=" ./Cat.jpg" width= "2px" height = "4px" ></img> 
+<img src=" ./Cat.jpg" width= "2px" height = "4px" ></img>
 
 ## 경원
 * 게임 : 포켓몬 카드 게임
-<img src=" ./frag.png", width="450px" height="300px"></img> 
+![poster]<img src=" ./frag.png", width="450px" height="300px"></img>
 
 ## 동욱
 ![poster](./stanleyparable.webp)<img src="./stanleyparable.webp" width= "2px" height = "4px" ></img>

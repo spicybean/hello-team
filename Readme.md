@@ -22,7 +22,7 @@ pushed by Gyeongwon
 
 ## 경원
 게임 : 포켓몬 카드 게임
-![image](./frag.jpg)
+![image](./frag.png)
 <img src=" ./frag.png", width="450px" height="300px"></img>
 
 ## 동욱

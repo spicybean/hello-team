@@ -17,8 +17,8 @@ pushed by Gyeongwon
 
 ## 태일
 게임:테라리아
-![poster](./Cat.png)
-<img src=" ./Cat.png" width= "2px" height = "4px" ></img> 
+![poster](./Cat.jpg)
+<img src=" ./Cat.jpg" width= "2px" height = "4px" ></img> 
 
 ## 경원
 * 게임 : 포켓몬 카드 게임

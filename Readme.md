@@ -17,7 +17,7 @@ pushed by Gyeongwon
 
 ## 경원
 * 게임 : 포켓몬 카드 게임
-<img src="![ ./kidi.png](https://soopool.art/image/acnh/animal/Tad.png)" width= "2px" height = "4px" ></img>
+<img src="https://soopool.art/image/acnh/animal/Tad.png", width="450px" or "40%" height="300px" title="크기변경">
 
 ## 동욱
 <img src="./stanleyparable.webp" width= "2px" height = "4px" ></img>

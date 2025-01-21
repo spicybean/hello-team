@@ -23,7 +23,6 @@ pushed by Gyeongwon
 ## 경원
 게임 : 포켓몬 카드 게임
 ![image](./frag.png)
-<img src=" ./frag.png", width="450px" height="300px"></img>
 
 ## 동욱
 ![poster](./stanleyparable.webp)<img src="./stanleyparable.webp" width= "2px" height = "4px" ></img>

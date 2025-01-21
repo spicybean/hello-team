@@ -13,6 +13,7 @@ pushed by Gyeongwon
 ## 중희
 ![image](https://github.com/user-attachments/assets/2915d3d2-10cc-49e3-98b8-e0c70c6057c4)
 <img src="[ ./kidi.png](https://github.com/user-attachments/assets/2915d3d2-10cc-49e3-98b8-e0c70c6057c4)" width= "2px" height = "4px" ></img>
+<img src="[ ./kidi.png](https://github.com/user-attachments/assets/2915d3d2-10cc-49e3-98b8-e0c70c6057c4)" width= "0.1px" height = "0.1px" ></img>
 
 ## 경원
 * 게임 : 포켓몬 카드 게임
